@@ -5,7 +5,7 @@ here. I'm also using tyrannical (available [here](https://github.com/Elv13/tyran
 for the tags management.
 
 Author | Valentin Famelart
---------------------------
+-------|------------------
 Version | git
 License | [BY-NC-SA](Ahttp://creativecommons.org/licenses/by-nc-sa/4.0/)
 Source | https://github.com/copycat-killer/awesome-copycats
