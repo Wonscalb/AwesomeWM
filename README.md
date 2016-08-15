@@ -4,8 +4,8 @@ powerarrow-dark theme available on the copycat-killer repo linked in the table
 here. I'm also using tyrannical (available [here](https://github.com/Elv13/tyrannical))
 for the tags management.
 
-:Author: Valentin Famelart
-:Version: git
-:License: BY-NC-SA_
-:Source: https://github.com/copycat-killer/awesome-copycats
+|Author| Valentin Famelart|
+|Version| git|
+|License| [BY-NC-SA](Ahttp://creativecommons.org/licenses/by-nc-sa/4.0/)|
+|Source| https://github.com/copycat-killer/awesome-copycats|
 
