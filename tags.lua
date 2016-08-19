@@ -31,7 +31,7 @@ tyrannical.tags = {
         -- TODO : Check if vim is acceptable in class
         name      = "dev",
         volatile  = true,
-        layout    = awful.layout.suit.tile,
+        layout    = awful.layout.suit.fair,
         screen    = {1,2},
         exclusive = true,
         class     = {"subl3", "vim", "gvim"}
@@ -49,7 +49,7 @@ tyrannical.tags = {
     {
         name      = "IM",
         init      = true,
-        layout    = awful.layout.suit.tile,
+        layout    = awful.layout.suit.fair,
         exec_once = "rambox",
         screen    = 1,
         volatile  = true,
