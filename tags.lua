@@ -59,19 +59,19 @@ tyrannical.tags = {
 }
 
 tyrannical.properties.intrusive = {
-    "shutter", "feh", "xterm"
+    "shutter", "feh", "xterm", "nm-applet"
 }
 
 tyrannical.properties.floating = {
-    "feh", "shutter", "xterm"
+    "feh", "shutter", "xterm", "nm-applet"
 }
 
 tyrannical.properties.ontop = {
-    "shutter", "xterm"
+    "feh", "shutter", "xterm", "nm-applt"
 }
 
 tyrannical.properties.centered = {
-   "shutter", "xterm"
+    "feh", "shutter", "xterm", "nm-applet"
 }
 
 tyrannical.settings.block_children_focus_stealing = true
